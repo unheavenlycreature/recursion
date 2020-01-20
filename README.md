@@ -9,7 +9,7 @@ The [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number) is a ma
 > $F_1 = 1$ \
 > $F_n = F_{n-1} + F_{n - 2}$
 
-The file `fibonacci.rb` contains two functions that can produce the nth fibonacci number, one using recursion and one using an iterative approach.
+The file `fibonacci.rb` contains two functions that can produce the first `n` fibonacci numbers for the given value of `n`.
 
 ## Merge Sort
 [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) is a [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm) sorting algorithm with worst-case runtime $O(n * log (n))$.
