@@ -5,9 +5,7 @@ This directory contains my solution for the [recursion project](https://www.theo
 ## Fibonacci
 The [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number) is a mathematical sequence with the following recurrence relation:
 
-> $F_0 = 0$ \
-> $F_1 = 1$ \
-> $F_n = F_{n-1} + F_{n - 2}$
+![equation](https://quicklatex.com/cache3/bc/ql_ac7db37a11d23ab80dc728e32f4cd6bc_l3.png)
 
 The file `fibonacci.rb` contains two functions that can produce the first `n` fibonacci numbers for the given value of `n`.
 
