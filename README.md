@@ -10,6 +10,8 @@ The [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number) is a ma
 The file `fibonacci.rb` contains two functions that can produce the first `n` fibonacci numbers for the given value of `n`.
 
 ## Merge Sort
-[Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) is a [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm) sorting algorithm with worst-case runtime $O(n * log (n))$.
+[Merge Sort](https://en.wikipedia.org/wiki/Merge_sort) is a [divide-and-conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm) sorting algorithm with worst-case runtime ![runtime](https://quicklatex.com/cache3/f1/ql_4bd2553db899ce6107a5afde9d15f5f1_l3.png).
+
+
 
 The file `merge_sort.rb` contains an implementation of the function.
